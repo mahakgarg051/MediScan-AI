@@ -1,0 +1,22 @@
+# MediScan AI — Third-Party Dependencies
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Web Application & User Interface
+streamlit>=1.30.0
+
+# Image Processing
+Pillow>=9.5.0
+
+# Numerical Computing & Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Plotting & Visualization (Grad-CAM heatmaps & confusion matrices)
+matplotlib>=3.7.0
+
+# Machine Learning Metrics & Evaluation
+scikit-learn>=1.3.0
+
